@@ -35,4 +35,4 @@
 ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat&logo=python&logoColor=white)
 ---
 
-📍 France  |  🔗 [LinkedIn](www.linkedin.com/in/louise-sachet)  |  ✉️ sachet.louise@gmail.com
+📍 France  |  🔗 [LinkedIn](www.linkedin.com/in/sachetlouise)  |  ✉️ sachet.louise@gmail.com
